@@ -1,30 +1,29 @@
-# TP-ENGENHARIA-DE-SOFTWARE
-# 🍕🔮 PIZZA FORTUNE TELLER - The Cheesiest Predictions! 🔮🍕
+# 🍌 **BANANA TRANSLATOR - Speak Like a Banana!** 🍌
 
-![Pizza Fortune Teller](https://example.com/pizza-fortune-teller.png)
+![Banana Translator](https://example.com/banana-translator.png)
 
-**Are you hungry for wisdom and pepperoni? Look no further! The Pizza Fortune Teller is here to satisfy your cravings for both cheesy goodness and life advice. Get ready to be amazed, amused, and maybe a little hungry. 🍕🔮**
+**Are you tired of ordinary languages? Say hello to the future of communication, entirely in bananas! The Banana Translator lets you express yourself in the most a-peeling way possible. Let's go bananas! 🍌🗣️**
 
 ## Features
 
-- **Predict Your Future Toppings**: Wondering what toppings your pizza of destiny holds? Ask the Pizza Fortune Teller and be prepared for the most delicious predictions of your life! 🌮🍍
-- **Crust Horoscopes**: Are you more of a thin-crust visionary or a deep-dish dreamer? Discover your crust horoscope and embrace the doughy wisdom of the cosmos. 🌌🍞
-- **Pizza Affirmations**: Need a confidence boost? The Pizza Fortune Teller serves up positive affirmations on a virtual pizza, because who doesn't need a little extra cheese on their self-esteem? 🧀🚀
+- **Banana-ize Your Text**: Turn any text into a banana-filled masterpiece. Just type in your message, and watch it transform into a bunch of delightful bananas! 🍌📜
+- **Banana Grammar**: Learn the intricate art of banana grammar. We've developed a highly advanced (and utterly fictional) banana syntax for expressing complex thoughts like never before! 🍌📚
+- **Emoji Transliteration**: Want to take it to the next level? Translate your favorite emojis into bananas. Because why send a smiley face when you can send a banana grin? 🍌😄
 
 ## Getting Started
 
-Ready to have your mind (and stomach) blown? Just follow these saucy steps:
+Ready to go bananas? Follow these fruity steps:
 
-1. Clone this repo: `git clone https://github.com/pizza-fortune-teller`
-2. Run `npm install` to install the pizza magic
-3. Launch the Fortune Teller with `node pizza-fortune-teller.js`
-4. Visit `http://localhost:3000` in your browser (keep some actual pizza nearby for full effect)
+1. Clone this repo: `git clone https://github.com/banana-translator`
+2. Run `npm install` to install the banana magic
+3. Launch the Banana Translator with `node banana-translator.js`
+4. Visit `http://localhost:3000` in your browser (brace yourself for the banana-rama!)
 
 ## Example Usage
 
 ```javascript
-const PizzaOracle = require('pizza-fortune-teller');
-const myQuestion = "Will I find true love?"
+const BananaLingo = require('banana-translator');
+const myMessage = "Hello, world!";
 
-const cheesyAnswer = PizzaOracle.predict(myQuestion);
-console.log(cheesyAnswer); // "Absolutely! Your true love will be as delightful as a pizza with extra cheese. 🍕❤️"
+const bananaText = BananaLingo.bananaize(myMessage);
+console.log(bananaText); // "🍌🍌🍌🍌🍌🍌, 🍌🍌🍌🍌🍌! 🍌🌍"
