@@ -1,4 +1,4 @@
-# 🍌 **BANANA TRANSLATOR - Speak Like a Banana!** 🍌
+# 🍌 **BANANA TRANSLATOR - Speak Like *multiple* Bananas!** 🍌
 
 ![Banana Translator](https://example.com/banana-translator.png)
 
